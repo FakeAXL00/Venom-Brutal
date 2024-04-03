@@ -1,3 +1,5 @@
+![1711519375537](https://github.com/FakeAXL00/Venom-Brutal/assets/164671698/27ae5ac5-ab9d-4a32-96ff-64bb118e1e4f)
+
 ``(ketuk untuk menghubungkan)`` 
 
 [![Version](https://img.shields.io/badge/FakeAXL-00-brightgreen.svg?maxAge=259200)]()
